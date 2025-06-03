@@ -115,7 +115,7 @@ I'm always looking to expand my skillset. My current learning focuses include:
 
 * **LinkedIn:** [LinkedIn Profile] (https://www.linkedin.com/in/sushant-jasra/)
 * **Email:** sjk@student.le.ac.uk
-* **View My CV:** [Download CV](SushantJasraKumar_GitHubCV.pdf)
+* **View My CV:** [View CV](SushantJasraKumar_GitHubCV.pdf)
 
 ---
 
