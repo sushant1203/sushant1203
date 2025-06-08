@@ -30,31 +30,28 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
         * 🔗 **Repository:** [View Project](https://github.com/sushant1203/spring-shop-product-system)
         * *Developed a system for managing shops and their products using Spring Boot and Spring MVC.*
     * **Spring Data (Pizza Management System)**
-        * 🔗 **Repository:** `[View Project](https://github.com/yourusername/link-to-pizza-management-repo)`
+        * 🔗 **Repository:** [View Project](https://github.com/sushant1203/spring-data-pizza-system)
         * *An application focusing on data persistence with Spring Data for a pizza management system.*
-* **Software Architecture and System Development II: Hospital Management System (API)**
-    * 🔗 **Repository:** `[View Project](https://github.com/yourusername/link-to-hospital-api-repo)`
-    * *Designed and implemented a RESTful API for a hospital management system.*
 * **Databases and Domain Modelling: University Database Design and SQL Query**
-    * 🔗 **Repository:** `[View Project](https://github.com/yourusername/link-to-university-db-repo)`
+    * 🔗 **Repository:** [View Project](https://github.com/sushant1203/university-database-design-SQL)
     * *Focused on relational database design, schema creation, and complex SQL querying for a university context.*
 * **Object Oriented Programming: Loans Management System (CW1)**
-    * 🔗 **Repository:** `[View Project](https://github.com/yourusername/link-to-oop-loans-repo)`
+    * 🔗 **Repository:** [View Project](https://github.com/sushant1203/bankloans-management-system)
     * *A console-based application demonstrating core Object-Oriented Programming principles for managing loan accounts.*
 
 ### 3. Mobile Application Development 📱
 * **Software Architecture and System Development II: Course Management Android App**
-    * 🔗 **Repository:** `[View Project](https://github.com/yourusername/link-to-course-android-app-repo)`
+    * 🔗 **Repository:** [View Project](https://github.com/sushant1203/android-app-course-management-system)
     * *Developed an Android application for students to manage their university courses and schedules.*
 
 ### 4. Data Analytics & Machine Learning 📊
 * **Data Analytics: Web Scraping, Model Building & Evaluation (CW2)**
-    * 🔗 **Repository:** `[View Project](https://github.com/yourusername/link-to-data-analytics-repo)`
+    * 🔗 **Repository:** [View Project](https://github.com/sushant1203/webscraping-modelbuilding-evaluation)
     * *A project involving extracting data via web scraping, preparing the data, building predictive models, and evaluating their performance.*
 
 ### 5. UI/UX Design 🎨
 * **User Interface Design & Evaluation: Medium & High-Fidelity Prototypes**
-    * 🔗 **Repository:** `[View Prototypes](https://github.com/yourusername/link-to-ui-ux-prototypes-repo)`
+    * 🔗 **Repository:** [View Prototypes](https://github.com/sushant1203/medium-fidelity-wireframes-prototype)
     * *Developed medium and high-fidelity prototypes for [briefly mention the application concept if you have one, e.g., "a student collaboration platform"], focusing on user-centered design principles and iterative evaluation.*
 
 ---
@@ -68,7 +65,7 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
 
 * **2. Research Project: Understanding Downforce in Formula 1**
     * 🔗 **Repository:** [View Project & Poster](https://github.com/sushant1203/mechanics-downforce-F1-project)
-    * **Overview:** A pair research project exploring the aerodynamic principles of downforce in F1 racing. Culminated in a detailed poster presentation and a project diary documenting the research process, planning, and problem-solving over three weeks. Partner: [Partner's Name - Optional: `([Partner's GitHub](link-to-partner-github))`]
+    * **Overview:** A pair research project exploring the aerodynamic principles of downforce in F1 racing. Culminated in a detailed poster presentation and a project diary documenting the research process, planning, and problem-solving over three weeks.
     * **Skills Demonstrated:** Collaborative research, physics application, technical communication, presentation skills, project logging.
 
 * **3. Case Study: Numerical Methods for Root Finding (Maths for Engineering)**
