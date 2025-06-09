@@ -42,7 +42,7 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
 ### 3. Mobile Application Development 📱
 * **Software Architecture and System Development II: Course Management Android App**
     * 🔗 **Repository:** [View Project](https://github.com/sushant1203/android-app-course-management-system)
-    * *Developed an Android application for university lecturers to manage their courses and student enrolments.
+    * *Developed an Android application for university lecturers to manage their courses and student enrolments.*
 
 ### 4. Data Analytics & Machine Learning 📊
 * **Data Analytics: Web Scraping, Model Building & Evaluation (CW2)**
