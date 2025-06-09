@@ -42,7 +42,7 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
 ### 3. Mobile Application Development 📱
 * **Software Architecture and System Development II: Course Management Android App**
     * 🔗 **Repository:** [View Project](https://github.com/sushant1203/android-app-course-management-system)
-    * *Developed an Android application for students to manage their university courses and schedules.*
+    * *Developed an Android application for university lecturers to manage their courses and student enrolments.
 
 ### 4. Data Analytics & Machine Learning 📊
 * **Data Analytics: Web Scraping, Model Building & Evaluation (CW2)**
@@ -50,9 +50,9 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
     * *A project involving extracting data via web scraping, preparing the data, building predictive models, and evaluating their performance.*
 
 ### 5. UI/UX Design 🎨
-* **User Interface Design & Evaluation: Medium & High-Fidelity Prototypes**
-    * 🔗 **Repository:** [View Prototypes](https://github.com/sushant1203/medium-fidelity-wireframes-prototype)
-    * *Developed medium and high-fidelity prototypes for [briefly mention the application concept if you have one, e.g., "a student collaboration platform"], focusing on user-centered design principles and iterative evaluation.*
+* **User Interface Design & Evaluation: Medium Fidelity Prototype**
+    * 🔗 **Repository:** [View Prototype](https://github.com/sushant1203/medium-fidelity-wireframes-prototype)
+    * *Developed medium fidelity prototype for a weekend city(Bath) break website, focusing on user-centred design principles and iterative evaluation.*
 
 ---
 
@@ -60,7 +60,7 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
 
 * **1. In-depth Scientific Report: Analysis of Snell's Law & Refractive Index**
     * 🔗 **Repository:** [View Full Report](https://github.com/sushant1203/physics-final-scientific-report)
-    * **Overview:** An extensive scientific investigation into Snell's Law, focusing on determining the refractive index of a glass block through four distinct experimental methodologies. The report includes detailed theoretical background, experimental procedures, data analysis, error consideration, and critical discussion of results.
+    * **Overview:** An extensive scientific investigation into Snell's Law, focusing on determining the refractive index of a glass block through four distinct experimental methodologies. The report includes a detailed theoretical background, experimental procedures, data analysis, error considerations, and a critical discussion of the results.
     * **Skills Demonstrated:** Scientific research, experimental design, data analysis, critical thinking, scientific report writing.
 
 * **2. Research Project: Understanding Downforce in Formula 1**
@@ -93,11 +93,13 @@ This section highlights key projects from my ongoing BSc in Computer Science, de
 
 * **Operating Systems:** MacOS, Windows, Linux, Android and iOS
 * **Programming Languages:** Python, Java, SQL, Shell Script, JavaScript, HTML5 and CSS3
-* **Frameworks & Libraries:** Bootstrap, jQuery, ReactJS, Spring Boot, Spring Data, Pandas, NumPy, Scikit-learn
+* **Frameworks & Libraries:** Bootstrap, Tailwind CSS, jQuery, ReactJS, Spring Boot, Spring MVC, Spring Validation, Spring Data JPA, Pandas, NumPy, Scikit-learn, BeautifulSoup
 * **DevOps and Database:** Git, Github, Gitlab, MySQL, PostgreSQL, MongoDB and Microsoft SQL Server
 * **Development tools and IDEs:** IntelliJ IDEA, VS Code, Android Studio
-* **Other tools:** Microsoft Excel, Desmos, Canva, Pencil (UI Prototyping)
+* **Other tools:** Microsoft Excel, Desmos, Canva, Lucidchart, Pencil (UI Prototyping)
 * **Mechanical Design Software:** Autodesk Inventor, AutoCAD, Solidworks, PTC Creo and MATLAB
+
+* **Concepts Developed:** Entity-Relationship Diagram (ERD), Database Normalisation (3NF), XML, Material Design Components, Scrum, ScrumBoards, Agile, Web Scraping, Data Cleaning & Pre-processing, Feature Engineering, Machine Learning, User flow, Information architecture, Interaction design, Application of Nielsen's Heuristics.
 ---
 
 ## 🌱 Currently Learning
