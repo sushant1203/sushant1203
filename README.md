@@ -36,8 +36,8 @@ This section highlights key projects from my BSc in Computer Science, demonstrat
     * 🔗 **Repository:** [View Project 1]
     * 🔗 **Repository:** [View Project 2]
     * **Research projects involving:**
-    * * 1) A critical analysis of LLMs in mental health, proposing socio-technical mitigations like decentralised "Sensitive Data Pods" and hard-coded crisis guardrails.*
-    * * 2) A rigorous HCI-focused audit of Microsoft Copilot, identifying hallucination risks in historical healthcare interfaces. The auditing framework and documentation earned a 95% grade.*
+      * 1) A critical analysis of LLMs in mental health, proposing socio-technical mitigations like decentralised "Sensitive Data Pods" and hard-coded crisis guardrails.*
+      * 2) A rigorous HCI-focused audit of Microsoft Copilot, identifying hallucination risks in historical healthcare interfaces. The auditing framework and documentation earned a 95% grade.*
 
 ### 4. Data Analytics & Machine Learning 📊
 * **Data Analytics: Web Scraping, Model Building & Evaluation (CW2)**
