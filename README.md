@@ -23,7 +23,7 @@ This section highlights key projects from my BSc in Computer Science, demonstrat
 
 ### 1. Artificial Intelligence & Computer Vision (Final Year Project) 👁️
 * **Automated Quality Control System for Welded Joints**
-    * 🔗 **Repository:** [View Project]
+    * 🔗 **Repository:** [View Project](https://github.com/sushant1203/automated-weld-defect-detection)
     * *Engineered a Python-based Computer Vision pipeline to detect structural defects in high-resolution industrial X-rays. Developed a custom Sliding Window Algorithm to process radiographs in overlapping patches using a VGG16 architecture, deployed via a Flask REST API. Optimised for high-recall (>95%) to ensure safety in a domain where false negatives are catastrophic.*
 
 ### 2. Deep Learning & Research Engineering 🛰️
@@ -33,8 +33,8 @@ This section highlights key projects from my BSc in Computer Science, demonstrat
 
 ### 3. AI Ethics, Alignment & Responsible AI ⚖️
 * **Research Portfolio: Auditing Generative Models & Healthcare Alignment**
-    * 🔗 **Repository:** [View Project a]
-    * 🔗 **Repository:** [View Project b]
+    * 🔗 **Repository:** [View Project a](https://github.com/sushant1203/ai-hallucinations-poor-hci)
+    * 🔗 **Repository:** [View Project b](https://github.com/sushant1203/ai-as-a-therapist)
     * **Research projects involving:**
       * 1) A rigorous HCI-focused audit of Microsoft Copilot, identifying hallucination risks in historical healthcare interfaces. The auditing framework and documentation earned a 95% grade.
       * 2) A critical analysis of LLMs in mental health, proposing socio-technical mitigations like decentralised "Sensitive Data Pods" and hard-coded crisis guardrails.
@@ -114,13 +114,13 @@ This section highlights key projects from my BSc in Computer Science, demonstrat
 
 * **Operating Systems:** MacOS, Windows, Linux, Android and iOS
 * **Programming Languages:** Python, Java, SQL, Shell Script, JavaScript, HTML5 and CSS3
-* **Frameworks & Libraries:** Bootstrap, Tailwind CSS, jQuery, ReactJS, Spring Boot, Spring MVC, Spring Validation, Spring Data JPA, Pandas, NumPy, Scikit-learn, BeautifulSoup
+* **Frameworks & Libraries:** PyTorch, TensorFlow/Keras, Bootstrap, Tailwind CSS, jQuery, ReactJS, Spring Boot, Spring MVC, Spring Validation, Spring Data JPA, Pandas, NumPy, Scikit-learn, BeautifulSoup
 * **DevOps and Database:** Git, Github, Gitlab, MySQL, PostgreSQL, MongoDB and Microsoft SQL Server
-* **Development tools and IDEs:** IntelliJ IDEA, VS Code, Android Studio
+* **Development tools and IDEs:** Google Colab, IntelliJ IDEA, VS Code, Android Studio
 * **Other tools:** Microsoft Excel, Desmos, Canva, Lucidchart, Pencil (UI Prototyping)
 * **Mechanical Design Software:** Autodesk Inventor, AutoCAD, Solidworks, PTC Creo and MATLAB
 
-* **Concepts Developed:** Entity-Relationship Diagram (ERD), Database Normalisation (3NF), XML, Material Design Components, Scrum, ScrumBoards, Agile, Web Scraping, Data Cleaning & Pre-processing, Feature Engineering, Machine Learning, User flow, Information architecture, Interaction design, Application of Nielsen's Heuristics.
+* **Concepts Developed:** Entity-Relationship Diagram (ERD), Database Normalisation (3NF), XML, Material Design Components, Scrum, ScrumBoards, Agile, Web Scraping, Data Cleaning & Pre-processing, Feature Engineering, Machine Learning, User flow, Information architecture, Interaction design, Application of Nielsen's Heuristics, Responsible AI, HCI Audit Methodology.
 ---
 
 ## 🌱 Currently Learning
