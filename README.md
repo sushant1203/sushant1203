@@ -112,7 +112,6 @@ This section highlights key projects from my BSc in Computer Science, demonstrat
 
 ## 🛠️ Technical Skills
 
-* **Operating Systems:** MacOS, Windows, Linux, Android and iOS
 * **Programming Languages:** Python, Java, SQL, Shell Script, JavaScript, HTML5 and CSS3
 * **Frameworks & Libraries:** PyTorch, TensorFlow/Keras, Bootstrap, Tailwind CSS, jQuery, ReactJS, Spring Boot, Spring MVC, Spring Validation, Spring Data JPA, Pandas, NumPy, Scikit-learn, BeautifulSoup
 * **DevOps and Database:** Git, Github, Gitlab, MySQL, PostgreSQL, MongoDB and Microsoft SQL Server
